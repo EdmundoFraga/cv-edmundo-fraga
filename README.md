@@ -19,7 +19,7 @@ Crear un CV web profesional, accesible, responsive, preparado para impresión y 
 - Modo impresión optimizado con URLs visibles
 
 # Enlace al proyecto (Deploy)
-Puedes ver la versión online aquí: 
+Puedes ver la versión online aquí: cv-edmundo-fraga.vercel.app
 
 # Autor
 Edmundo Fraga
