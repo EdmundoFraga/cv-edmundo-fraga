@@ -18,16 +18,16 @@ Crear un CV web profesional, accesible, responsive, preparado para impresión y 
 - Uso de pseudo-elementos
 - Modo impresión optimizado con URLs visibles
 
-#Captures
-##Vista Desktop
+# Captures
+## Vista Desktop
 
 ![Vista Desktop](Capturas-CV/Vista-Desktop.png)
 
-##Vista Mòbil
+## Vista Mòbil
 
 ![Vista Mòbil](Capturas-CV/Vista-Mòbil.png)
 
-##Mode Impressió
+## Mode Impressió
 
 ![Mode Impressió](Capturas-CV/Mode-Impressió.png)
 
