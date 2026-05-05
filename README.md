@@ -20,12 +20,15 @@ Crear un CV web profesional, accesible, responsive, preparado para impresión y 
 
 #Captures
 ##Vista Desktop
+
 ![Vista Desktop](Capturas-CV/Vista-Desktop.png)
 
 ##Vista Mòbil
+
 ![Vista Mòbil](Capturas-CV/Vista-Mòbil.png)
 
 ##Mode Impressió
+
 ![Mode Impressió](Capturas-CV/Mode-Impressió.png)
 
 # Enlace al proyecto (Deploy)
