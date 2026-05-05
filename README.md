@@ -18,6 +18,16 @@ Crear un CV web profesional, accesible, responsive, preparado para impresión y 
 - Uso de pseudo-elementos
 - Modo impresión optimizado con URLs visibles
 
+#Captures
+##Vista Desktop
+images/Vista-Desktop.png
+
+##Vista Mòbil
+images/Vista-Mòbil.png
+
+##Mode Impressió
+images/Mode-Impressió.png
+
 # Enlace al proyecto (Deploy)
 Puedes ver la versión online aquí: cv-edmundo-fraga.vercel.app
 
