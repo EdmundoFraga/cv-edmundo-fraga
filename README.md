@@ -20,13 +20,13 @@ Crear un CV web profesional, accesible, responsive, preparado para impresión y 
 
 #Captures
 ##Vista Desktop
-![Vista Desktop](images/Vista-Desktop.png)
+![Vista Desktop](Capturas-CV/Vista-Desktop.png)
 
 ##Vista Mòbil
-![Vista Mòbil](images/Vista-Mòbil.png)
+![Vista Mòbil](Capturas-CV/Vista-Mòbil.png)
 
 ##Mode Impressió
-![Mode Impressió](images/Mode-Impressió.png)
+![Mode Impressió](Capturas-CV/Mode-Impressió.png)
 
 # Enlace al proyecto (Deploy)
 Puedes ver la versión online aquí: cv-edmundo-fraga.vercel.app
